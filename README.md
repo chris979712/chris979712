@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a software engineering student.
 -----------------------------------
 
-I have a strong passion for building robust and secure software, from defensive programming and architecture to deployment, databases, and creative front-end experiences.
+I have a strong passion for building robust and secure software, from defensive programming and architecture to deployment, databases, and creative front-end experiences. I also like working as a fullstack developer.
 
 Currently exploring the world of video game development 🎮
 
